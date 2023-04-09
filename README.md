@@ -6,12 +6,9 @@ Programs for the ComputerCraft mod for Minecraft
   * [Quarry Turtle](#quarry-turtle)
 * [Installation](#installation)
 
-
 ## Programs
 ### Quarry Turtle
 *A turtle that digs out an area specified by the user*
-
-
 
 ## Installation
 The installation process is the same for all programs. 
