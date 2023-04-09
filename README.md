@@ -5,7 +5,7 @@ Programs for the ComputerCraft mod for Minecraft
 * [Programs](#programs)
   * [Quarry Turtle](#quarry-turtle)
 * [Installation](#installation)
-  * [Quarry Turtle](#quarry-turtle-1)
+
 
 ## Programs
 ### Quarry Turtle
